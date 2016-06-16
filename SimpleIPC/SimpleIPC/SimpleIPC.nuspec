@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/wgraham17/simple-ipc/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/wgraham17/simple-ipc</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2016 Will Graham</copyright>
+    <tags>ipc interprocess-communication messaging</tags>
+  </metadata>
+</package>
